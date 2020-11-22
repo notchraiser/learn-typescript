@@ -19,6 +19,8 @@ body{
     padding: 6px 10px;
     border: 1px solid #eee;
     margin: 10px auto;
+    border-left-color: #ff0aa7;
+    border-left-width: thick;
   }
   li h4{
     color: #ff0aa7;
